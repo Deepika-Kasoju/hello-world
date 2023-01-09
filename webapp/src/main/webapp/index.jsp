@@ -1,4 +1,4 @@
 <h1> Hello, Welcome to Valaxy Technologies !!! </h1>
 <h2> Hello, I am praveen from Hyderabad !!! </h2>
-హైదరాబాదు, తెలంగాణ రాష్ట్ర రాజధాని. హైదరాబాదు జిల్లా, రంగారెడ్డి జిల్లాల ముఖ్యపట్టణం. హైదరాబాద్ కి మరో పేరు భాగ్యనగరం. హస్తకళలకు, నాట్యానికి ప్రసిద్ధి. హైదరాబాదు భారతదేశంలో ఐదవ అతిపెద్ద మహానగరం. అంతేకాదు హైదరాబాదు చుట్టు పక్కల మున్సిపాలిటీలను కలుపుకుపోతే ప్రపంచంలోని మహానగరాలలో 41వ స్థానంలో ఉంది. 
 
+Hyderabad is the capital of southern India's Telangana state. A major center for the technology industry, it's home to many upscale restaurants and shops. Its historic sites include Golconda Fort, a former diamond-trading center that was once the Qutb Shahi dynastic capital. The Charminar, a 16th-century mosque whose 4 arches support towering minarets, is an old city landmark near the long-standing Laad Bazaar
